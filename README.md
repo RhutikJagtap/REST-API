@@ -1,4 +1,4 @@
-REST API
+**REST API**
 
 Representational State Transfer (REST) is an architectural style that defines a set of constraints to be used for creating web services. 
 In HTTP there are five methods that are commonly used in a REST-based Architecture i.e., POST, GET, PUT, PATCH, and DELETE.
